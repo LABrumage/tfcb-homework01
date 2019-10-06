@@ -10,13 +10,18 @@
 ### **Second List**
 1. Check work to ensure all steps completed
 2. Submit homework by noon on 2019-10-08
-3. Wait for grade, continue to learn computational biology tools
+3. Continue to learn computational biology tools
+### **Third List - Contents of this directory**
+1. Data
+2. Images
+3. Scripts
+4. README file written in Markdown
 ## **Links**
 [Link to Lauren Brumage's GitHub profile](https://github.com/LABrumage)
 
 [Link to tfcb-homework01](https://github.com/LABrumage/tfcb-homework01)
 
-[https://github.com/fredhutchio/tfcb_2019/tree/master/software][]
+
 ## **Embedded images**
 ![Rhytidoponera metallica](https://github.com/LABrumage/tfcb-homework01/blob/master/images/casent_0172345_rhytidoponera-metallica.jpg)
 ![Camponotus darwinii](https://github.com/LABrumage/tfcb-homework01/blob/master/images/casent_0191696_camponotus-darwinii.jpg)
