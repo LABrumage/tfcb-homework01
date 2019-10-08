@@ -31,7 +31,7 @@
 
 
 ### Species DO in 2013 field season
-*this table is not yet tidy*
+*data from file originally titled survey data, 2013 tab*
 
 |Date collected|Plot|Sex|Weight|
 |--------------|:----:|:---:|------:|
@@ -44,7 +44,7 @@
 
 
 ### Species DS in 2013 field season
-*this table is not yet tidy*
+*data from file originally titled survey data, 2013 tab*
 
 |Date collected|Plot|Sex|Weight|Scale calibrated (Y/N)|
 |--------------|:----:|:---:|:------:|----------------------:|
