@@ -46,7 +46,7 @@
 ### Species DS in 2013 field season
 *this table is not yet tidy*
 
-|Date collected|Plot--|Sex--|Weight--|Scale calibrated (Y/N)-|
+|Date collected|Plot|Sex|Weight|Scale calibrated (Y/N)|
 |--------------|:----:|:---:|:------:|----------------------:|
 |2013-11-12|9|F|117|Y|
 |2013-11-13|11|F|126|Y|
